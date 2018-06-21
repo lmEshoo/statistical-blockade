@@ -1,0 +1,45 @@
+* "simulator" "HSPICE" 
+* "version" "G-2012.06 64-BIT"
+* "format" "HSP"
+* "rundate" "22:46:32 06/12/2018 "
+* "netlist" "path_new.sp "
+* "runtitle" "**"
+* time =  0.000e+00       
+* temperature =  2.500e+01       
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.000e-14       
+.nodeset
++ d1 = 1.000e-00       
++ d10 = 1.000e-00       
++ d2 = 1.000e-00       
++ d3 = 1.000e-00       
++ d4 = 1.000e-00       
++ d5 = 1.000e-00       
++ d6 = 1.000e-00       
++ d7 = 1.000e-00       
++ d8 = 1.000e-00       
++ d9 = 1.000e-00       
++ in = 0.000e+00       
++ out1 = 4.159e-06       
++ out10 = 4.915e-06       
++ out2 = 3.511e-06       
++ out3 = 4.495e-06       
++ out4 = 5.255e-06       
++ out5 = 5.359e-06       
++ out6 = 6.031e-06       
++ out7 = 5.042e-06       
++ out8 = 4.071e-06       
++ out9 = 5.374e-06       
++ vdd = 1.000e+00       
++ xnand1.c = 2.121e-06       
++ xnand2.c = 1.765e-06       
++ xnand3.c = 2.226e-06       
++ xnand4.c = 2.705e-06       
++ xnand5.c = 2.663e-06       
++ xnand6.c = 2.991e-06       
++ xnand7.c = 2.520e-06       
++ xnand8.c = 2.083e-06       
++ xnand9.c = 2.633e-06       
++ xnand10.c = 2.513e-06       
+***   END: Saved Operating Point ***                     
