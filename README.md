@@ -36,3 +36,8 @@ Research paper can be found [here](https://ieeexplore.ieee.org/document/4212000/
 - In `sim.m`:
   - Setting the `threshold` variable and you'll notice the change in the `error` count.
   - You can change the `gppdf` to `gpcdf` to get GDP CDF's plot.
+
+## Contributors
+
+- Lini Mestar
+- Yan Chen
